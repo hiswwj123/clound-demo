@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/1903
+    username: root
+    password: wj710723
+#mybatis:
+#  type-aliases-package: com.itluma.pojo.User
